@@ -1,2 +1,2 @@
 study project
-![Альтернативный текст](images/images.png)
+![Альтернативный текст](images/images.jpg)
